@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStreams/DataStreams.iml" filepath="$PROJECT_DIR$/DataStreams/DataStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileStreams/FileStreams.iml" filepath="$PROJECT_DIR$/FileStreams/FileStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaIO.iml" filepath="$PROJECT_DIR$/JavaIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectSerialization/ObjectSerialization.iml" filepath="$PROJECT_DIR$/ObjectSerialization/ObjectSerialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StandardStreams/StandardStreams.iml" filepath="$PROJECT_DIR$/StandardStreams/StandardStreams.iml" />
+    </modules>
+  </component>
+</project>
